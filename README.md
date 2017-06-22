@@ -8,6 +8,13 @@ python code for use with a motozero and a nerf gun
 
 <hr/>
 
+### Software
+
+* motioneyOs
+
+* MotoZero Library
+
+
 ### Parts
 
 * Raspberry pi zero (https://thepihut.com/collections/raspberry-pi/products/raspberry-pi-zero)
